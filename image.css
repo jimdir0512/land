@@ -1,0 +1,12 @@
+.line1 img {
+  width: 49%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.line2 img {
+  width: 99%;
+}
